@@ -1,0 +1,52 @@
+[
+  {
+    "url": "http://paypal.com.login-alert-user-session.com",
+    "type": "subdomain spoofing",
+    "risk": "high"
+  },
+  {
+    "url": "https://secure-facebook-login.netlify.app",
+    "type": "free hosting + brand spoof",
+    "risk": "medium"
+  },
+  {
+    "url": "http://update-google-authenticator.io",
+    "type": "typosquatting",
+    "risk": "high"
+  },
+  {
+    "url": "http://login-verify-amazon.com-user-alert.net",
+    "type": "domain hyphenation",
+    "risk": "high"
+  },
+  {
+    "url": "https://microsoft-support-login-reset-password.site",
+    "type": "brand impersonation",
+    "risk": "medium"
+  },
+  {
+    "url": "http://secure.apple.com.id.fakelogin.org",
+    "type": "nested subdomain trap",
+    "risk": "high"
+  },
+  {
+    "url": "https://account-update-security.netlify.app",
+    "type": "generic alert page",
+    "risk": "medium"
+  },
+  {
+    "url": "http://login.userauth.fb-security-alert.io",
+    "type": "multi-brand spoof",
+    "risk": "high"
+  },
+  {
+    "url": "https://recovery-instagram-helpdesk-support.tk",
+    "type": "support impersonation",
+    "risk": "medium"
+  },
+  {
+    "url": "http://security-login-verification.updates.com.fake",
+    "type": "nested + fake TLD",
+    "risk": "high"
+  }
+]
